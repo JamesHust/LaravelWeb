@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ckfinder/ckfinder-laravel-package": "^3.5",
+        "laravel/helpers": "^1.1"
+    }
+}
